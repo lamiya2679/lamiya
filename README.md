@@ -2,6 +2,8 @@
 
 <img src="./banner.svg" width="100%" alt="Lamiya Othey Mim Banner">
 
+</div>
+
 <br>
 
 # 👋 Hi, I'm Lamiya Othey Mim
