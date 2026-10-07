@@ -1,82 +1,80 @@
-# Hi, I'm Lamiya 👋
-
 <div align="center">
 
+# 👋 Hi, I'm Lamiya Othey Mim
+
 ### CSE Undergraduate @ IUBAT 🇧🇩
-### Aspiring Software Engineer | Full-Stack & AI Enthusiast
+
+**Aspiring Software Engineer**  
+Building practical software solutions with  
+**Full-Stack Development · AI · Computer Vision**
+
+<br>
+
+📍 Bangladesh  
+💡 Learning · Building · Improving
 
 </div>
 
+---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science and Engineering undergraduate student at IUBAT, Bangladesh.
+I'm a Computer Science and Engineering undergraduate student at **IUBAT, Bangladesh**, passionate about creating practical software solutions.
 
-I am passionate about building practical software solutions and improving my skills in software development.
+My current focus is improving my skills in **software development, backend engineering, and intelligent systems** while building real-world projects.
 
-My current interests include:
+I enjoy exploring how technology can solve meaningful problems through:
 
-- Full-stack web development
-- ASP.NET Core development
+- Web applications
 - Artificial Intelligence
 - Computer Vision
 - Modern software engineering practices
 
+---
 
 ## 🛠️ Technical Skills
 
-### Languages
-- C#
-- Python
-- JavaScript
+<div align="center">
 
-### Web Development
-- ASP.NET Core
-- ASP.NET MVC
-- Entity Framework Core
+| Category | Technologies |
+| :--- | :--- |
+| Languages | C# · Python · JavaScript |
+| Backend | ASP.NET Core · ASP.NET MVC |
+| Database | SQL Server · Entity Framework Core |
+| AI / ML | Machine Learning · Computer Vision |
+| Tools | Git · GitHub · Visual Studio |
 
-### Database
-- SQL Server
+</div>
 
-### Tools
-- Git
-- GitHub
-
+---
 
 ## 🚀 Featured Projects
 
 ### 🏥 Smart Hospital Management System
 
-A healthcare management system developed to solve real-world hospital management problems.
+A healthcare management system designed to improve hospital operations through software solutions.
 
-**Technologies:**
-- C#
-- ASP.NET MVC
-- SQL Server
+**Tech Stack:**
 
+`C#` `ASP.NET MVC` `SQL Server` `Entity Framework`
+
+---
 
 ### 🍎 FruitVisionAI
 
-A computer vision project focused on image-based fruit analysis.
+A computer vision project exploring image-based fruit analysis using artificial intelligence.
 
-**Technologies:**
-- Python
-- Machine Learning
-- Computer Vision
+**Tech Stack:**
 
+`Python` `Machine Learning` `Computer Vision`
+
+---
 
 ## 🌱 Currently Learning
 
-- Professional Git workflow
-- Full-stack development
-- AI application development
-- Cloud fundamentals
-
-
-## 🎯 Goals
-
-- Build real-world software projects
-- Become a skilled software engineer
-- Prepare for internship and MSc opportunities
-
-
+```text
+→ Advanced ASP.NET Core
+→ Full-Stack Web Development
+→ AI Application Development
+→ Software Engineering Practices
+→ Cloud Fundamentals
